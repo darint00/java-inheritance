@@ -1,3 +1,4 @@
+// SportMountainBike Class
 
 public class SportMountainBike extends MountainBike {
 	boolean iFrontShock;
